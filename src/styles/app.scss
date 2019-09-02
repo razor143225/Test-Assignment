@@ -1,0 +1,16 @@
+@import '_settings.scss';
+@import '_base.scss';
+@import './components/_header.scss';
+
+.room-container {
+    padding:30px;
+}
+.submit-button {
+    margin-top:20px;
+    display:block;
+    padding:5px 20px;
+    background-color:#c0c0c0;
+    font-size:15px;
+    border-bottom:3px solid #7e7e7e;
+    border-right:3px solid #7e7e7e;
+}
